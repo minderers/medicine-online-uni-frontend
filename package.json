@@ -63,6 +63,8 @@
     "@dcloudio/vite-plugin-uni": "3.0.0-4020920240930001",
     "@vue/runtime-core": "^3.4.21",
     "sass": "^1.81.0",
-    "vite": "5.2.8"
+    "vite": "5.2.8",
+    "vite-plugin-windicss": "^1.9.3",
+    "windicss": "^3.5.6"
   }
 }

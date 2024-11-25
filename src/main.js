@@ -1,6 +1,7 @@
 import { createSSRApp } from 'vue'
 import * as Pinia from 'pinia'
 import { createUnistorage } from 'pinia-plugin-unistorage'
+import 'virtual:windi.css'
 
 export function createApp() {
   const app = createSSRApp(App)
